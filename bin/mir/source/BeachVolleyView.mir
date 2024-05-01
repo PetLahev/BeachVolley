@@ -1,0 +1,56 @@
+[ @file = "D:\Garmin\Projects\BeachVolley\source\BeachVolleyView.mc"; @line = 1; ]
+import Toybox.Graphics;
+[ @file = "D:\Garmin\Projects\BeachVolley\source\BeachVolleyView.mc"; @line = 2; ]
+import Toybox.WatchUi;
+[ @file = "D:\Garmin\Projects\BeachVolley\source\BeachVolleyView.mc"; @line = 4; ]
+class BeachVolleyView extends WatchUi.View{
+    [ @file = "D:\Garmin\Projects\BeachVolley\source\BeachVolleyView.mc"; @line = 4; ]
+    <init> {
+    }
+    [ @file = "D:\Garmin\Projects\BeachVolley\source\BeachVolleyView.mc"; @line = 4; ]
+    static
+    <init> {
+    }
+    [ @file = "D:\Garmin\Projects\BeachVolley\source\BeachVolleyView.mc"; @line = 6; ]
+    function initialize() as Void {
+D_Garmin_Projects_BeachVolley_source_BeachVolleyView_mc_6_26_8_4_start:
+[ "D:\Garmin\Projects\BeachVolley\source\BeachVolleyView.mc" 7 8 ]
+        %tmp.2 = getv ? :View;
+        %tmp.3 = getv function %tmp.2 :initialize;
+        invoke %tmp.2 %tmp.3();
+D_Garmin_Projects_BeachVolley_source_BeachVolleyView_mc_6_26_8_4_stop:
+    }
+    [ @file = "D:\Garmin\Projects\BeachVolley\source\BeachVolleyView.mc"; @line = 11; ]
+    function onLayout(dc as Dc) as Void {
+D_Garmin_Projects_BeachVolley_source_BeachVolleyView_mc_11_40_13_4_start:
+[ "D:\Garmin\Projects\BeachVolley\source\BeachVolleyView.mc" 12 8 ]
+        %tmp.1 = self;
+        %tmp.2 = getv function %tmp.1 :setLayout;
+        %tmp.4 = getv ? :Rez;
+        %tmp.5 = getv %tmp.4 :Layouts;
+        %tmp.6 = getv function %tmp.5 :MainLayout;
+        %tmp.8 = lgetv %dc;
+        %tmp.9 = invoke %tmp.5 %tmp.6(%tmp.8);
+        invoke %tmp.1 %tmp.2(%tmp.9);
+D_Garmin_Projects_BeachVolley_source_BeachVolleyView_mc_11_40_13_4_stop:
+    }
+    [ @file = "D:\Garmin\Projects\BeachVolley\source\BeachVolleyView.mc"; @line = 18; ]
+    function onShow() as Void {
+    }
+    [ @file = "D:\Garmin\Projects\BeachVolley\source\BeachVolleyView.mc"; @line = 22; ]
+    function onUpdate(dc as Dc) as Void {
+D_Garmin_Projects_BeachVolley_source_BeachVolleyView_mc_22_40_25_4_start:
+[ "D:\Garmin\Projects\BeachVolley\source\BeachVolleyView.mc" 24 8 ]
+        %tmp.2 = getv ? :View;
+        %tmp.3 = getv function %tmp.2 :onUpdate;
+        %tmp.5 = lgetv %dc;
+        invoke %tmp.2 %tmp.3(%tmp.5);
+D_Garmin_Projects_BeachVolley_source_BeachVolleyView_mc_22_40_25_4_stop:
+    }
+    [ @file = "D:\Garmin\Projects\BeachVolley\source\BeachVolleyView.mc"; @line = 30; ]
+    function onHide() as Void {
+    }
+}
+[ @file = "D:\Garmin\Projects\BeachVolley\source\BeachVolleyView.mc"; @line = 1; ]
+<init> {
+}

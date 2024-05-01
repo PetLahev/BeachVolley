@@ -1,0 +1,46 @@
+[ @file = "D:\Garmin\Projects\BeachVolley\source\BeachVolleyDelegate.mc"; @line = 1; ]
+import Toybox.Lang;
+[ @file = "D:\Garmin\Projects\BeachVolley\source\BeachVolleyDelegate.mc"; @line = 2; ]
+import Toybox.WatchUi;
+[ @file = "D:\Garmin\Projects\BeachVolley\source\BeachVolleyDelegate.mc"; @line = 4; ]
+class BeachVolleyDelegate extends WatchUi.BehaviorDelegate{
+    [ @file = "D:\Garmin\Projects\BeachVolley\source\BeachVolleyDelegate.mc"; @line = 4; ]
+    <init> {
+    }
+    [ @file = "D:\Garmin\Projects\BeachVolley\source\BeachVolleyDelegate.mc"; @line = 4; ]
+    static
+    <init> {
+    }
+    [ @file = "D:\Garmin\Projects\BeachVolley\source\BeachVolleyDelegate.mc"; @line = 6; ]
+    function initialize() as Void {
+D_Garmin_Projects_BeachVolley_source_BeachVolleyDelegate_mc_6_26_8_4_start:
+[ "D:\Garmin\Projects\BeachVolley\source\BeachVolleyDelegate.mc" 7 8 ]
+        %tmp.2 = getv ? :BehaviorDelegate;
+        %tmp.3 = getv function %tmp.2 :initialize;
+        invoke %tmp.2 %tmp.3();
+D_Garmin_Projects_BeachVolley_source_BeachVolleyDelegate_mc_6_26_8_4_stop:
+    }
+    [ @file = "D:\Garmin\Projects\BeachVolley\source\BeachVolleyDelegate.mc"; @line = 10; ]
+    function onMenu() as Boolean {
+D_Garmin_Projects_BeachVolley_source_BeachVolleyDelegate_mc_10_33_13_4_start:
+[ "D:\Garmin\Projects\BeachVolley\source\BeachVolleyDelegate.mc" 11 8 ]
+        %tmp.1 = getm $.Toybox.WatchUi;
+        %tmp.2 = getv function %tmp.1 :pushView;
+        %tmp.6 = getv ? :Rez;
+        %tmp.7 = getv %tmp.6 :Menus;
+        %tmp.8 = getv function ? %tmp.7 :MainMenu;
+        %tmp.3 = newc %tmp.8 ();
+        %tmp.12 = getv ? :BeachVolleyMenuDelegate;
+        %tmp.9 = newc %tmp.12 ();
+        %tmp.13 = getm $.Toybox.WatchUi;
+        %tmp.14 = getv %tmp.13 :SLIDE_UP;
+        invoke %tmp.1 %tmp.2(%tmp.3, %tmp.9, %tmp.14);
+[ "D:\Garmin\Projects\BeachVolley\source\BeachVolleyDelegate.mc" 12 8 ]
+        %tmp.15 = true;
+        ret %tmp.15;
+D_Garmin_Projects_BeachVolley_source_BeachVolleyDelegate_mc_10_33_13_4_stop:
+    }
+}
+[ @file = "D:\Garmin\Projects\BeachVolley\source\BeachVolleyDelegate.mc"; @line = 1; ]
+<init> {
+}

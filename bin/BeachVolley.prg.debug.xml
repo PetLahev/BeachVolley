@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<manifest filename="D:\Garmin\Projects\BeachVolley\manifest.xml"/>
+<pcToLineNum>
+<entry filename="D:\\Garmin\\Projects\\BeachVolley\\source\\BeachVolleyDelegate.mc" id="1" lineNum="4" parent="globals/BeachVolleyDelegate" pc="268435460" symbol="&lt;init&gt;"/>
+<entry filename="D:\\Garmin\\Projects\\BeachVolley\\source\\BeachVolleyApp.mc" id="2" lineNum="26" parent="globals" pc="268435472" symbol="getApp"/>
+<entry filename="D:\\Garmin\\Projects\\BeachVolley\\source\\BeachVolleyApp.mc" id="2" lineNum="27" parent="globals" pc="268435482" symbol="getApp"/>
+<entry filename="D:\\Garmin\\Projects\\BeachVolley\\source\\BeachVolleyView.mc" id="3" lineNum="4" parent="globals/BeachVolleyView" pc="268435493" symbol="&lt;init&gt;"/>
+<entry filename="d:\\Garmin\\Projects\\BeachVolley\\bin\\gen\\006-B3905-00\\source\\Rez.mcgen" id="4" lineNum="7" parent="globals/Rez" pc="268435505" symbol="&lt;init&gt;"/>
+<entry filename="D:\\Garmin\\Projects\\BeachVolley\\source\\BeachVolleyApp.mc" id="5" lineNum="5" parent="globals/BeachVolleyApp" pc="268435525" symbol="&lt;init&gt;"/>
+<entry filename="D:\\Garmin\\Projects\\BeachVolley\\source\\BeachVolleyMenuDelegate.mc" id="6" lineNum="5" parent="globals/BeachVolleyMenuDelegate" pc="268435537" symbol="&lt;init&gt;"/>
+<entry filename="D:\\Garmin\\Projects\\BeachVolley\\source\\BeachVolleyDelegate.mc" id="7" lineNum="10" parent="globals/BeachVolleyDelegate" pc="268435549" symbol="onMenu"/>
+<entry filename="D:\\Garmin\\Projects\\BeachVolley\\source\\BeachVolleyDelegate.mc" id="7" lineNum="11" parent="globals/BeachVolleyDelegate" pc="268435551" symbol="onMenu"/>
+<entry filename="D:\\Garmin\\Projects\\BeachVolley\\source\\BeachVolleyDelegate.mc" id="7" lineNum="12" parent="globals/BeachVolleyDelegate" pc="268435620" symbol="onMenu"/>
+<entry filename="D:\\Garmin\\Projects\\BeachVolley\\source\\BeachVolleyDelegate.mc" id="8" lineNum="6" parent="globals/BeachVolleyDelegate" pc="268435622" symbol="initialize"/>
+<entry filename="D:\\Garmin\\Projects\\BeachVolley\\source\\BeachVolleyDelegate.mc" id="8" lineNum="7" parent="globals/BeachVolleyDelegate" pc="268435624" symbol="initialize"/>
+<entry filename="D:\\Garmin\\Projects\\BeachVolley\\source\\BeachVolleyView.mc" id="10" lineNum="11" parent="globals/BeachVolleyView" pc="268435637" symbol="onLayout"/>
+<entry filename="D:\\Garmin\\Projects\\BeachVolley\\source\\BeachVolleyView.mc" id="10" lineNum="12" parent="globals/BeachVolleyView" pc="268435639" symbol="onLayout"/>
+<entry filename="D:\\Garmin\\Projects\\BeachVolley\\source\\BeachVolleyView.mc" id="11" lineNum="6" parent="globals/BeachVolleyView" pc="268435673" symbol="initialize"/>
+<entry filename="D:\\Garmin\\Projects\\BeachVolley\\source\\BeachVolleyView.mc" id="11" lineNum="7" parent="globals/BeachVolleyView" pc="268435675" symbol="initialize"/>
+<entry filename="D:\\Garmin\\Projects\\BeachVolley\\source\\BeachVolleyView.mc" id="13" lineNum="22" parent="globals/BeachVolleyView" pc="268435688" symbol="onUpdate"/>
+<entry filename="D:\\Garmin\\Projects\\BeachVolley\\source\\BeachVolleyView.mc" id="13" lineNum="24" parent="globals/BeachVolleyView" pc="268435690" symbol="onUpdate"/>
+<entry filename="D:\\Garmin\\Projects\\BeachVolley\\source\\BeachVolleyApp.mc" id="14" lineNum="12" parent="globals/BeachVolleyApp" pc="268435707" symbol="onStart"/>
+<entry filename="D:\\Garmin\\Projects\\BeachVolley\\source\\BeachVolleyApp.mc" id="15" lineNum="20" parent="globals/BeachVolleyApp" pc="268435710" symbol="getInitialView"/>
+<entry filename="D:\\Garmin\\Projects\\BeachVolley\\source\\BeachVolleyApp.mc" id="15" lineNum="21" parent="globals/BeachVolleyApp" pc="268435712" symbol="getInitialView"/>
+<entry filename="D:\\Garmin\\Projects\\BeachVolley\\source\\BeachVolleyApp.mc" id="16" lineNum="7" parent="globals/BeachVolleyApp" pc="268435767" symbol="initialize"/>
+<entry filename="D:\\Garmin\\Projects\\BeachVolley\\source\\BeachVolleyApp.mc" id="16" lineNum="8" parent="globals/BeachVolleyApp" pc="268435769" symbol="initialize"/>
+<entry filename="D:\\Garmin\\Projects\\BeachVolley\\source\\BeachVolleyApp.mc" id="17" lineNum="16" parent="globals/BeachVolleyApp" pc="268435782" symbol="onStop"/>
+<entry filename="D:\\Garmin\\Projects\\BeachVolley\\source\\BeachVolleyMenuDelegate.mc" id="18" lineNum="11" parent="globals/BeachVolleyMenuDelegate" pc="268435785" symbol="onMenuItem"/>
+<entry filename="D:\\Garmin\\Projects\\BeachVolley\\source\\BeachVolleyMenuDelegate.mc" id="18" lineNum="12" parent="globals/BeachVolleyMenuDelegate" pc="268435787" symbol="onMenuItem"/>
+<entry filename="D:\\Garmin\\Projects\\BeachVolley\\source\\BeachVolleyMenuDelegate.mc" id="18" lineNum="13" parent="globals/BeachVolleyMenuDelegate" pc="268435798" symbol="onMenuItem"/>
+<entry filename="D:\\Garmin\\Projects\\BeachVolley\\source\\BeachVolleyMenuDelegate.mc" id="18" lineNum="14" parent="globals/BeachVolleyMenuDelegate" pc="268435819" symbol="onMenuItem"/>
+<entry filename="D:\\Garmin\\Projects\\BeachVolley\\source\\BeachVolleyMenuDelegate.mc" id="18" lineNum="15" parent="globals/BeachVolleyMenuDelegate" pc="268435830" symbol="onMenuItem"/>
+<entry filename="D:\\Garmin\\Projects\\BeachVolley\\source\\BeachVolleyMenuDelegate.mc" id="19" lineNum="7" parent="globals/BeachVolleyMenuDelegate" pc="268435852" symbol="initialize"/>
+<entry filename="D:\\Garmin\\Projects\\BeachVolley\\source\\BeachVolleyMenuDelegate.mc" id="19" lineNum="8" parent="globals/BeachVolleyMenuDelegate" pc="268435854" symbol="initialize"/>
+<entry filename="d:\\Garmin\\Projects\\BeachVolley\\bin\\gen\\006-B3905-00\\source\\Rez.mcgen" id="20" lineNum="13" parent="globals/Rez/Layouts" pc="268435867" symbol="MainLayout"/>
+<entry filename="d:\\Garmin\\Projects\\BeachVolley\\bin\\gen\\006-B3905-00\\source\\Rez.mcgen" id="20" lineNum="14" parent="globals/Rez/Layouts" pc="268435878" symbol="MainLayout"/>
+<entry filename="d:\\Garmin\\Projects\\BeachVolley\\bin\\gen\\006-B3905-00\\source\\Rez.mcgen" id="20" lineNum="16" parent="globals/Rez/Layouts" pc="268435978" symbol="MainLayout"/>
+<entry filename="d:\\Garmin\\Projects\\BeachVolley\\bin\\gen\\006-B3905-00\\source\\Rez.mcgen" id="20" lineNum="18" parent="globals/Rez/Layouts" pc="268436094" symbol="MainLayout"/>
+<entry filename="d:\\Garmin\\Projects\\BeachVolley\\bin\\gen\\006-B3905-00\\source\\Rez.mcgen" id="20" lineNum="20" parent="globals/Rez/Layouts" pc="268436194" symbol="MainLayout"/>
+<entry filename="d:\\Garmin\\Projects\\BeachVolley\\bin\\gen\\006-B3905-00\\source\\Rez.mcgen" id="21" lineNum="25" parent="globals/Rez/Menus/MainMenu" pc="268436214" symbol="&lt;init&gt;"/>
+<entry filename="d:\\Garmin\\Projects\\BeachVolley\\bin\\gen\\006-B3905-00\\source\\Rez.mcgen" id="22" lineNum="26" parent="globals/Rez/Menus/MainMenu" pc="268436226" symbol="initialize"/>
+<entry filename="d:\\Garmin\\Projects\\BeachVolley\\bin\\gen\\006-B3905-00\\source\\Rez.mcgen" id="22" lineNum="27" parent="globals/Rez/Menus/MainMenu" pc="268436228" symbol="initialize"/>
+<entry filename="d:\\Garmin\\Projects\\BeachVolley\\bin\\gen\\006-B3905-00\\source\\Rez.mcgen" id="22" lineNum="28" parent="globals/Rez/Menus/MainMenu" pc="268436240" symbol="initialize"/>
+<entry filename="d:\\Garmin\\Projects\\BeachVolley\\bin\\gen\\006-B3905-00\\source\\Rez.mcgen" id="22" lineNum="29" parent="globals/Rez/Menus/MainMenu" pc="268436285" symbol="initialize"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="8388639" module="true" symbol="Graphics"/>
+<entry id="8389346" symbol="text"/>
+<entry id="8388632" method="true" symbol="&lt;init&gt;"/>
+<entry id="5" module="true" symbol="globals/Rez/Menus"/>
+<entry id="14" method="true" symbol="MainLayout"/>
+<entry id="7" object="true" symbol="BeachVolleyApp"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry field="true" id="16" symbol="AppName"/>
+<entry id="6" module="true" symbol="globals/Rez/Strings"/>
+<entry id="8389080" method="true" symbol="onMenu"/>
+<entry id="8388648" module="true" symbol="WatchUi"/>
+<entry id="2" module="true" symbol="globals/Rez"/>
+<entry field="true" id="19" symbol="prompt"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry field="true" id="8389065" symbol="locY"/>
+<entry field="true" id="8389064" symbol="locX"/>
+<entry id="8388771" module="true" object="true" symbol="Drawables"/>
+<entry id="8389348" symbol="font"/>
+<entry id="21" symbol="item_2"/>
+<entry id="20" symbol="item_1"/>
+<entry id="12" module="true" symbol="Menus"/>
+<entry id="8389275" method="true" symbol="getApp"/>
+<entry id="4" module="true" symbol="globals/Rez/Layouts"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry field="true" id="8389063" symbol="identifier"/>
+<entry id="8389349" symbol="justification"/>
+<entry id="3" module="true" symbol="globals/Rez/Drawables"/>
+<entry id="15" object="true" symbol="MainMenu"/>
+<entry id="8388644" module="true" symbol="System"/>
+<entry id="8388769" module="true" object="true" symbol="Rez"/>
+<entry id="8388640" module="true" symbol="Lang"/>
+<entry field="true" id="13" symbol="LauncherIcon"/>
+<entry id="8388610" symbol="statics"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry id="8389350" module="true" symbol="globals"/>
+<entry id="8388770" module="true" object="true" symbol="Strings"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry id="10" object="true" symbol="BeachVolleyView"/>
+<entry id="9" object="true" symbol="BeachVolleyMenuDelegate"/>
+<entry id="8" object="true" symbol="BeachVolleyDelegate"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry id="8389109" method="true" symbol="onMenuItem"/>
+<entry id="8389347" symbol="color"/>
+<entry id="11" module="true" symbol="Layouts"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry id="8388635" module="true" symbol="Application"/>
+<entry field="true" id="18" symbol="menu_label_2"/>
+<entry field="true" id="17" symbol="menu_label_1"/>
+</symbolTable>
+<localVars>
+<entry arg="true" endPc="268435672" name="dc" stackId="1" startPc="268435637"/>
+<entry arg="true" endPc="268435706" name="dc" stackId="1" startPc="268435688"/>
+<entry arg="true" endPc="268435851" name="item" stackId="1" startPc="268435785"/>
+<entry arg="true" endPc="268436213" name="dc" stackId="1" startPc="268435867"/>
+<entry endPc="268436213" name="rez_cmp_local_text_type_title" stackId="2" startPc="268435878"/>
+<entry endPc="268436213" name="rez_cmp_local_text_current_timer" stackId="3" startPc="268435878"/>
+<entry endPc="268436213" name="rez_cmp_local_text_cycles_left" stackId="4" startPc="268435878"/>
+</localVars>
+<deviceInfo deviceVersion="fcbb2d71ec35a1d3f34d13093a6835d1c69522b8" partNumber="006-B3905-00"/>
+<annotations>
+<annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="LauncherIcon"/>
+<annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="menu_label_2"/>
+<annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="menu_label_1"/>
+<annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="prompt"/>
+<annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="AppName"/>
+</annotations>
+<dataEntryOffsetMappings>
+<dataEntry label="globals" offset="67" parentId="" symbolId="globals" type="module"/>
+<dataEntry label="globals/BeachVolleyDelegate" offset="152" parentId="globals" symbolId="BeachVolleyDelegate" type="class"/>
+<dataEntry label="globals/BeachVolleyView" offset="205" parentId="globals" symbolId="BeachVolleyView" type="class"/>
+<dataEntry label="globals/Rez" offset="285" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry label="globals/BeachVolleyApp" offset="347" parentId="globals" symbolId="BeachVolleyApp" type="class"/>
+<dataEntry label="globals/BeachVolleyMenuDelegate" offset="418" parentId="globals" symbolId="BeachVolleyMenuDelegate" type="class"/>
+<dataEntry label="globals/Rez/Drawables" offset="471" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry label="globals/Rez/Layouts" offset="506" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry label="globals/Rez/Menus" offset="541" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry label="globals/Rez/Strings" offset="576" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry label="globals/Rez/Menus/MainMenu" offset="638" parentId="Menus" symbolId="MainMenu" type="class"/>
+</dataEntryOffsetMappings>
+<functions>
+<functionEntry accessMode="public" endPc="268435471" name="&lt;init&gt;" parent="BeachVolleyDelegate" startPc="268435460">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435492" name="getApp" startPc="268435472">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435504" name="&lt;init&gt;" parent="BeachVolleyView" startPc="268435493">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435524" name="&lt;init&gt;" parent="Rez" startPc="268435505">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435536" name="&lt;init&gt;" parent="BeachVolleyApp" startPc="268435525">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435548" name="&lt;init&gt;" parent="BeachVolleyMenuDelegate" startPc="268435537">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435621" name="onMenu" parent="BeachVolleyDelegate" startPc="268435549">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435636" name="initialize" parent="BeachVolleyDelegate" startPc="268435622">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onShow" parent="BeachVolleyView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435672" name="onLayout" parent="BeachVolleyView" startPc="268435637">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435687" name="initialize" parent="BeachVolleyView" startPc="268435673">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onHide" parent="BeachVolleyView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435706" name="onUpdate" parent="BeachVolleyView" startPc="268435688">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="&lt;init&gt;" parent="Drawables">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="&lt;init&gt;" parent="Layouts">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="&lt;init&gt;" parent="Menus">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="&lt;init&gt;" parent="Strings">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435709" name="onStart" parent="BeachVolleyApp" startPc="268435707">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435766" name="getInitialView" parent="BeachVolleyApp" startPc="268435710">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435781" name="initialize" parent="BeachVolleyApp" startPc="268435767">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435784" name="onStop" parent="BeachVolleyApp" startPc="268435782">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435851" name="onMenuItem" parent="BeachVolleyMenuDelegate" startPc="268435785">
+<param id="item"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435866" name="initialize" parent="BeachVolleyMenuDelegate" startPc="268435852">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436213" name="MainLayout" parent="Layouts" startPc="268435867">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436225" name="&lt;init&gt;" parent="MainMenu" startPc="268436214">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436330" name="initialize" parent="MainMenu" startPc="268436226">
+<documentation/>
+</functionEntry>
+</functions>
+</debugInfo>
