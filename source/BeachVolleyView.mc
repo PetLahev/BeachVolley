@@ -1,8 +1,10 @@
 import Toybox.Graphics;
 import Toybox.WatchUi;
+import Toybox.Lang;
 
 class BeachVolleyView extends WatchUi.View {
 
+    
     function initialize() {
         View.initialize();
     }
@@ -16,6 +18,7 @@ class BeachVolleyView extends WatchUi.View {
     // the state of this View and prepare it to be shown. This includes
     // loading resources into memory.
     function onShow() as Void {
+        System.println("On show");
     }
 
     // Update the view
@@ -29,5 +32,4 @@ class BeachVolleyView extends WatchUi.View {
     // memory.
     function onHide() as Void {
     }
-
 }

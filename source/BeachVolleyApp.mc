@@ -4,6 +4,8 @@ import Toybox.WatchUi;
 
 class BeachVolleyApp extends Application.AppBase {
 
+    private var _view;
+
     function initialize() {
         AppBase.initialize();
     }
@@ -18,11 +20,20 @@ class BeachVolleyApp extends Application.AppBase {
 
     // Return the initial view of your application here
     function getInitialView() as [Views] or [Views, InputDelegates] {
-        return [ new BeachVolleyView(), new BeachVolleyDelegate() ];
+        _view = new BeachVolleyView();        
+        return [ _view, new BeachVolleyDelegate() ];
+    }
+
+    function getView() as BeachVolleyView {
+        return _view;
     }
 
 }
 
 function getApp() as BeachVolleyApp {
     return Application.getApp() as BeachVolleyApp;
+}
+
+function getView() as BeachVolleyView {
+    return Application.getApp().getView();
 }
