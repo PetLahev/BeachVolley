@@ -21,7 +21,7 @@ class BeachVolleyApp extends Application.AppBase {
     // Return the initial view of your application here
     function getInitialView() as [Views] or [Views, InputDelegates] {
         _view = new BeachVolleyView();        
-        return [ _view, new BeachVolleyDelegate() ];
+        return [ _view, new BeachVolleyDelegate(_view) ];
     }
 
     function getView() as BeachVolleyView {
