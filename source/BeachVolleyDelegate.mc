@@ -63,10 +63,12 @@ public enum Status {
 class BeachVolleyDelegate extends WatchUi.BehaviorDelegate {
 
     private var _view as BeachVolleyView;
+    private var _match as BeachVolleyMatch;
 
     function initialize(view as BeachVolleyView) {
         BehaviorDelegate.initialize();
         _view = view;
+        _match = new BeachVolleyMatch();
     }
 
     function onKeyPressed(keyEvent) {        
@@ -78,7 +80,8 @@ class BeachVolleyDelegate extends WatchUi.BehaviorDelegate {
     //! @return true if handled, false otherwise
     public function onKey(evt as KeyEvent) as Boolean {
         var key = evt.getKey();        
-        var keyAction = getKeyAction(key);
+        var keyAction = getKeyAction(key);        
+        _match.homeScore();        
         System.println(keyAction);
         return true;
     }
